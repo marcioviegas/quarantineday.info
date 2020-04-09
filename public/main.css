@@ -1,0 +1,16 @@
+h1.title {
+  font-size: 4em;
+}
+
+h2.subtitle {
+  font-size: 2em;
+}
+
+.hero-foot {
+  padding-bottom: 20px;
+}
+
+.hero-foot a {
+  color: white;
+  text-decoration: underline;
+}
